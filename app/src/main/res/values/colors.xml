@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffF2FEFF</color>
+    <color name="purple_200">#ffF2FEFF</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="home_background">#ffF2FEFF</color>
+
+    <color name="restore_default">#00E2FF</color>
+    <color name="restore_select">#6EEEFF</color>
+
+    <color name="iab_color_primary">#fffea90f</color>
+    <color name="text_tip">#ff818181</color>
+    <color name="th_text_dark">#ff333333</color>
+
+    <color name="card_photo">#80CFFF93</color>
+    <color name="card_video">#80FEDD68</color>
+    <color name="card_audio">#80B593FF</color>
+    <color name="card_restore">#80FD93FF</color>
+    <color name="card_text">#DB111111</color>
+
+    <color name="disabled">#ffc6c6c6</color>
+
+    <color name="textColor">#757575</color>
+    <color name="text_main">#ff4a4a4a</color>
+    <color name="vertical_line">#ffeae4e4</color>
+    <color name="background">#fffff8f3</color>
+
+    <!-- Animation Colors -->
+    <color name="gradient_start">#0542F8</color>
+    <color name="gradient_end_1">#05FDF4</color>
+    <color name="gradient_end_2">#CC03FF76</color>
+    <color name="gradient_end_3">#B27BF303</color>
+    <color name="gradient_end_4">#7FDBF307</color>
+    <color name="gradient_end_5">#4CFAED0B</color>
+    <color name="gradient_end_6">#4CF6A914</color>
+    <color name="gradient_end_7">#19EC0909</color>
+
+</resources>
